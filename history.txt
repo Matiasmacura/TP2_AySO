@@ -1,0 +1,215 @@
+    1  sudo app install bzip2
+    2  sudo apt install bzip2
+    3  sudo lsmod | grep vboxguest
+    4  sudo ssh-keygen
+    5  sudo cat $HOME/.ssh/*.pub
+    6  sudo cat $HOME/.ssh/id_ed25519.pub
+    7  /root/.ssh/*.pub
+    8  clear
+    9  sudo cat $HOME/.ssh/*.pub
+   10  sudo cat root/.ssh/*.pub
+   11  yo@ubuntu22:~$ sudo visudo
+   12  sudo yo@ubuntu22:~$ sudo visudo
+   13  sudo su
+   14  cd
+   15  cd /repogit
+   16  ls -l
+   17  mkidir repogit
+   18  sudo mkdir repogit
+   19  cd repogit/TP_AySO
+   20  sudo sed
+   21  clear
+   22  cs repogit/
+   23  sudo cd repogit/
+   24  pwd
+   25  cd
+   26  pwd
+   27  cd repogit/
+   28  git@github.com:Matiasmacura/TP_AySO.git
+   29  sudo git clone git@github.com:Matiasmacura/TP_AySO.git
+   30  git clone git@github.com:Matiasmacura/TP_AySO.git
+   31  sudo apr install git
+   32  sudo apt install git
+   33  sudo git clone git@github.com:Matiasmacura/TP_AySO.git
+   34  cd TP_AySO/
+   35  ls -l
+   36  cat /etc/os-relse
+   37  sudo cat/etc/os/release
+   38  sudo cat /etc/os-release
+   39  sudo man grep
+   40  sudo grep HOME_URL /etc/os-release
+   41  sudo grep home_url /etc/os-release
+   42  sudo grep -i home_url /etc/os-release
+   43  sudo whoami
+   44  whoami
+   45  sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+   46  chmod 777 echo “Usuario=$(whoami)” > datos_usuario.txt
+   47  echo “Usuario=$(whoami)” > datos_usuario.txt
+   48  sudo sh -c echo “Usuario=$(whoami)” > datos_usuario.txt
+   49  sudo chmod 644 datos_usuario.txt
+   50  sudo chmod 777 echo “Usuario=$(whoami)” > datos_usuario.txt
+   51  sudo chmod 777 datos_usuario.txt
+   52  sudo echo “Usuario=$(whoami)”
+   53  sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+   54  touch datos_usuario.txt
+   55  sudo touch datos_usuario.txt
+   56  sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+   57  sudo chmod 777 echo “Usuario=$(whoami)” > datos_usuario.txt
+   58  whoami
+   59  ls -ld
+   60  sudo chmod 777
+   61  sudo chmod u+w
+   62  chmod --help
+   63  sudo sh -c echo “Usuario=$(whoami)” > datos_usuario.txt
+   64  ls
+   65  ls -l datos_usuario.txt
+   66  chmod +w datos_usuario.txt
+   67  sudo chmod +w datos_usuario.txt
+   68  ls -l datos_usuario.txt
+   69  sudo su  chmod +w datos_usuario.txt
+   70  sudo su chmod +w datos_usuario.txt
+   71  ls -l datos_usuario.txt
+   72  chmod +w datos_usuario.txt
+   73  sudo mount
+   74  sudo chown matiastp?"<"
+   75  stat datos_usuario.txt
+   76  mount
+   77  ls -l datos_usuario.txt
+   78  sudo chmod u+w datos_usuario.txt
+   79  ls -l datos_usuario.txt
+   80  sudo chmod a+w datos_usuario.txt
+   81  ls -l datos_usuario.txt
+   82  sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+   83  ls -l datos_usuario.txt
+   84  sudo git add.
+   85  git add .
+   86  sudo git config --global --add safe.directory /home/matiastp/repogit/TP_AySO
+   87  git add .
+   88  sudo git add .
+   89  sudo git config --global user.email matiasmacura96@gmail.com
+   90  sudo git config --global user.name Matias Macura
+   91  sudo git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+   92  sudo git status
+   93  sudo git config --global user.name mmacura
+   94  sudo git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+   95  git push
+   96  sudo git push
+   97  sudo grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+   98  ls -l datos_usuarios.txt
+   99  ls /l
+  100  ls -l
+  101  sudo grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+  102  sudo git add datos_usuario.txt
+  103  sudo git commint -m “feat: Añadiendo información de CPU”
+  104  sudo git commit -m “feat: Añadiendo información de CPU”
+  105  sudo git add .
+  106  sudo git commit -m "feat: Añadiendo información de CPU"
+  107  sudo cat <<EOF >> README.md 
+  108  Alumno: Matias Macura 
+  109  División: 315 Turno: Noche 
+  110  EOF
+  111  ls -l README.md
+  112  sudo chmod a+w README,md
+  113  sudo chmod a+w README.md
+  114  ls -l README.md
+  115  sudo cat <<EOF >> README.md 
+  116  Alumno: Matias Macura 
+  117  División: 315 Turno: Noche 
+  118  EOF
+  119  sudo git add README.md datos_usuario.txt
+  120  sudo git commit "ADD> Añadiendo Readme y datos de usuario"
+  121  sudo git commit -m  "ADD> Añadiendo Readme y datos de usuario"
+  122  git push
+  123  sudo git push
+  124  sudo history -a
+  125  history -a
+  126  sudo cp ~/.bash_history ./Historial_comandos_Matias.txt
+  127  sudo  git add Historia_comandos_Matias.txt
+  128  ls -l
+  129  sudo  git add Historial_comandos_Matias.txt
+  130  sudo git commit -m "ADD: Historial de comandos de Matias"
+  131  git push
+  132  sudo git push
+  133  sudo visudo
+  134  sudo mkdir /home/yo/test/informe.txt
+  135  sudo chmod 777
+  136  chmod --help
+  137  sudo chmod g=rwx
+  138  chmod 777
+  139  sudo whoami
+  140  sudo chmod 777 informe.tt
+  141  sudo chmod 777 informe.txt
+  142  sudo -l
+  143  ls -l
+  144  ls -g
+  145  ls
+  146  ls -d
+  147  ls
+  148  ls -l informe.txt
+  149  su yo
+  150  lsblk
+  151  sudo pvcreate /dev/sdb /dev/sdc /dev/sdd
+  152  sudo vgcreate nodocentral /dev/sdb /dev/sdc /dev/sdd
+  153  sudo vgdisplay nodocentral
+  154  sudo lvcreate -L 3G -n sitios nodocentral
+  155  sudo lvcreate -L 5G -n salvas nodocentral
+  156  sudo lvextend -L +1G /dev/nodocentral/sitios
+  157  sudo mkfs.ext4 /dev/nodocentral/sitios
+  158  sudo mkfs.ext4 /dev/nodocentral/salvas
+  159  sudo mkdir -p /mnt/sitios /mnt/salvas
+  160  sudo mount /dev/nodocentral/sitios /mnt/sitios
+  161  sudo mount /dev/nodocentral/sitios /mnt/salvas
+  162  echo "Archivo de prueba" | sudo tee /mnt/sitios/prueba.txt
+  163  cat /mnt/sitios/prueba.txt
+  164  sudo umount /mnt/sitios
+  165  sudo umount /mnt/salvas
+  166  sudo vgremove nodocentral
+  167  sudo pvremove /dev/sdb /dev/sdc /dev/sdd
+  168  sudo fdisk /dev/sdd
+  169  lsblk
+  170  sudo umount /mnt/sitios
+  171  sudo umount /mnt/salvas
+  172  sudo lvremove /dev/nodocentral/sitios
+  173  sudo lvremove /dev/nodocentral/salvas
+  174  sudo pvremove /dev/sdb /dev/sdc /dev/sdd
+  175  sudo fdisk /dev/sdd
+  176  lsblk
+  177  sudo fdisk /dev/sdd
+  178  lsblk
+  179  sudo fdisk /dev/sdd
+  180  lsblk
+  181  sudo fdisk /dev/sdd
+  182  lsblk
+  183  sudo mkfs.ext4 /dev/sdd5
+  184  sudo mkfs.ext4 /dev/sdd6
+  185  sudo mkfs.ext4 /dev/sdd7
+  186  sudo mkfs.ext4 /dev/sdd8
+  187  sudo mkfs.ext4 /dev/sdd9
+  188  sudo mkfs.ext4 /dev/sdd10
+  189  sudo mkdir -p /mnt/p1 /mnt/p2 /mnt/p3 /mnt/p4 /mnt/p5 /mnt/p6
+  190  sudo mount /dev/sdd5 /mnt/p1
+  191  sudo mount /dev/sdd6 /mnt/p2
+  192  sudo mount /dev/sdd7 /mnt/p3
+  193  sudo mount /dev/sdd8 /mnt/p4
+  194  sudo mount /dev/sdd9 /mnt/p5
+  195  sudo mount /dev/sdd10 /mnt/p6
+  196  df -h | grep /mnt
+  197  history > history.txt
+  198  cat history.txt
+  199  git init
+  200  git add.
+  201  git add .
+  202  git commit -m "entrega tp"
+  203  git config --global user.email "matiasmacura96@gmail.com"
+  204  git config --global user.name "matias macura"
+  205  git commit -m "entrega tp"
+  206  git remote add origin https://github.com/Matiasmacura/TP2_AySO.git
+  207  git branch -M main
+  208  git push -u origin main
+  209  git clonne https://github.com/Matiasmacura/TP2_AySO.git
+  210  git clone https://github.com/Matiasmacura/TP2_AySO.git
+  211  cd 
+  212  ls -l
+  213  cd history.txt
+  214  cd TP2_AySO/
+  215  history > history.txt
